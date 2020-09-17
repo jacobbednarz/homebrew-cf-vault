@@ -7,5 +7,5 @@ cask "cf-vault" do
   name "cf-vault"
   homepage "https://github.com/jacobbednarz/cf-vault"
 
-  binary "cf-vault_#{version}_darwin_amd64"
+  binary "cf-vault_#{version}_darwin_amd64", target: 'cf-vault'
 end
