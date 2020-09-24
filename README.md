@@ -6,5 +6,5 @@ Homebrew tap for https://github.com/jacobbednarz/cf-vault/
 
 ```
 brew tap jacobbednarz/cf-vault/cf-vault
-brew brew install jacobbednarz/cf-vault/cf-vault
+brew install jacobbednarz/cf-vault/cf-vault
 ```
