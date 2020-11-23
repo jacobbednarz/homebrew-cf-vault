@@ -1,6 +1,6 @@
 cask "cf-vault" do
-  version "0.0.7"
-  sha256 "71434e81ab4b5472779e28709b00a046e4ac5fd61fbac3c47b825f977c55daae"
+  version "0.0.8"
+  sha256 "decdb4a4d0068a1a1f5ab28c9312aa06ee1f5f8cfea5e018ade8d4068ada4f8f"
 
   url "https://github.com/jacobbednarz/cf-vault/releases/download/#{version}/cf-vault_#{version}_darwin_amd64.tar.gz"
   appcast "https://github.com/jacobbednarz/cf-vault/releases.atom"
